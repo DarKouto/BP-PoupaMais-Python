@@ -1,4 +1,4 @@
-print("Desconto BP Poupa Mais em Python por DarKouto. V1.0\n");
+print("Desconto BP Poupa Mais em Python por DarKouto. V1.0\n")
 
 valor1 = float(input("Quanto combustível meteu o Condutor 1? (€) "))
 valorTotal = float(input("Qual foi o valor total sem desconto? (€) "))
@@ -11,7 +11,7 @@ conta1 = (percentagem1*valorFinal)/100
 conta2 = (percentagem2*valorFinal)/100
 
 print(
-    "\nA Condutor 1 meteu:",round(valor1,2),"€",
+    "\nO Condutor 1 meteu:",round(valor1,2),"€",
     "\nO Condutor 2 meteu:",round(valor2,2),"€",
     "\nPercentagem Condutor 1:",round(percentagem1,2),"%",
     "\nPercentagem Condutor 2:",round(percentagem2,2),"%",
