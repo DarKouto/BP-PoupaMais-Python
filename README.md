@@ -3,6 +3,8 @@ A discount calculator for Gas, now made with Python
 
 My first (small and humble) Python project, after just reading a few documents regarding this language. It's the same as the JS one, but in Python. I always found this programming languague to be very interesting, so I decided to learn a few things and test it out.
 
+![Honest Work](https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg)
+
 ## The Problem this solves
 BP had a partnership with Pingo Doce which provided gas discounts (through a Pingo Doce card).<br/>
 Example: you spent 25€ in gas, and you had 5€ bonus on the card. So at the end you would only pay 20€.<br/>
