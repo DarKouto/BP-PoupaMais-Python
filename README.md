@@ -5,7 +5,7 @@ My first (small and humble) Python project, after just reading a few documents r
 
 This app calculates the discount for gas prices for two different bikes.
 
-#" How to use
+## How to use
  - Download the bp.py file to your machine
  - Open a terminal in the same directory as the bp.py file and type:
 ```
