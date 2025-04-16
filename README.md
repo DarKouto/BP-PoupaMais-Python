@@ -4,7 +4,7 @@ A discount calculator for Gas, now made with Python
 My first (small and humble) Python project, after just reading a few documents regarding this language. It's the same as the JS one, but in Python. I always found this programming languague to be very interesting, so I decided to learn a few things and test it out.
 
 ## The Problem this solves
-BP had a partnership with Pingo Doce which provided gas discounts for Pingo Doce customers (through a special card).<br/>
+BP had a partnership with Pingo Doce which provided gas discounts (through a Pingo Doce card).<br/>
 Example: you spent 25€ in gas, and you had 5€ bonus on the card. So at the end you would only pay 20€.<br/>
 However, the discount could only be applied if at least 20 liters where pumped into a veihicle.<br/>
 Unfortunately my motorcycle only fits 14 liters, rendering this whole promotion discount invalid.<br/>
