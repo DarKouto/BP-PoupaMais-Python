@@ -7,5 +7,7 @@ This app calculates the discount for gas prices for two different bikes.
 
 # USAGE
  - Download the bp.py file to your machine
- - Open a terminal in the same directory as the bp.py file
- - type: python bp.py
+ - Open a terminal in the same directory as the bp.py file and type:
+```
+python bp.py
+```
